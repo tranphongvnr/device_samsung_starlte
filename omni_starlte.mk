@@ -7,5 +7,6 @@ $(call inherit-product, vendor/omni/config/common.mk)
 # Device identifier
 PRODUCT_DEVICE := starlte
 PRODUCT_NAME := omni_starlte
+PRODUCT_MODEL := Galaxy S9
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
